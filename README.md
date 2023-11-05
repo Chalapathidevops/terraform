@@ -1,5 +1,10 @@
-# Terraform concepts
+# Terraform 
+* Terraform is a tool for automating infrastructure provisioning (IaC)
+* Using Terraform we can completely automate the setup of insfrastructure in cloud.
+* Terraform supports different cloud providers (AWS, Azure, Google, etc..)
+* Terraform open-source and it also have enterprise edition.
 
+## Concepts
 1. What is Terraform
 2. Variables
 3. tfvars
