@@ -1,5 +1,5 @@
 # How to use Terraform Dynamic blocks
-
+[Ref for more details](https://jhooq.com/terraform-dynamic-block/)
 * [Terraform Dynamic Block](https://developer.hashicorp.com/terraform/language/expressions/dynamic-blocks) is important when you want to create multiple resources inside of similar types, so instead of copy and pasting the same terraform configuration in the terraform file does not make sense and it is not feasible if you need to create hundreds of resources using terraform.
 * If we describe terraform dynamic block in simple words then it is for loop which is going to iterate over and will help you to create a dynamic resource. With the help of dynamic blocks you can create nested repeatable blocks such as settings, ingress rules etc...
 
